@@ -1,2 +1,5 @@
 # Food-Tracker
-Tracks what you eat
+
+Enter your name and the last food and drink you consumed.
+
+Click Meal History to see the recent meals you've had
